@@ -1,0 +1,1 @@
+Proffy: An online study platform. Created during the Next Level Weak Edition 02 of Rocketseat.
